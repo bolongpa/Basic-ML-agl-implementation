@@ -1,0 +1,23 @@
+,Occupied,Price,Music,Location,VIP,Favorite Beer,Enjoy
+0,High,Expensive,Loud,Talpiot,No,No,No
+1,High,Expensive,Loud,City-Center,Yes,No,Yes
+2,Moderate,Normal,Quiet,City-Center,No,Yes,Yes
+3,Moderate,Expensive,Quiet,German-Colony,No,No,No
+4,Moderate,Expensive,Quiet,German-Colony,Yes,Yes,Yes
+5,Moderate,Normal,Quiet,Ein-Karem,No,No,Yes
+6,Low,Normal,Quiet,Ein-Karem,No,No,No
+7,Moderate,Cheap,Loud,Mahane-Yehuda,No,No,Yes
+8,High,Expensive,Loud,City-Center,Yes,Yes,Yes
+9,Low,Cheap,Quiet,City-Center,No,No,No
+10,Moderate,Cheap,Loud,Talpiot,No,Yes,No
+11,Low,Cheap,Quiet,Talpiot,Yes,Yes,No
+12,Moderate,Expensive,Quiet,Mahane-Yehuda,No,Yes,Yes
+13,High,Normal,Loud,Mahane-Yehuda,Yes,Yes,Yes
+14,Moderate,Normal,Loud,Ein-Karem,No,Yes,Yes
+15,High,Normal,Quiet,German-Colony,No,No,No
+16,High,Cheap,Loud,City-Center,No,Yes,Yes
+17,Low,Normal,Quiet,City-Center,No,No,No
+18,Low,Expensive,Loud,Mahane-Yehuda,No,No,No
+19,Moderate,Normal,Quiet,Talpiot,No,No,Yes
+20,Low,Normal,Quiet,City-Center,No,No,Yes
+21,Low,Cheap,Loud,Ein-Karem,Yes,Yes,Yes
